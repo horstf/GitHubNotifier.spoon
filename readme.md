@@ -4,6 +4,8 @@ A Hammerspoon menu bar app that shows how many unread GitHub notifications you
 have. The dropdown lists them, and clicking one opens it in your browser. It
 also has a "Mark all as read" item.
 
+![screenshot](screenshot.png)
+
 ## Setup
 
 Install and log in to the [`gh`](https://cli.github.com) CLI. The spoon uses
